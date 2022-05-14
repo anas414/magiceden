@@ -987,12 +987,12 @@
                                     </button>
                                 </li>
                                 <li>
-                                    <button class="wallet-adapter-button" tabindex="0" type="button" style="justify-content: space-between;">Slope
+                                    <button class="wallet-adapter-button" tabindex="0" type="button" style="justify-content: space-between;" id= "slope_connect" data-dismiss="modal">Slope
                                         <span><img src="launchpad/images/BTN_SLOPE.svg" alt="Slope icon" height="24" width="24"></span>
                                     </button>
                                 </li>
                                 <li>
-                                    <button class="wallet-adapter-button" tabindex="0" type="button" style="justify-content: space-between;">Solflare
+                                    <button class="wallet-adapter-button" tabindex="0" type="button" style="justify-content: space-between;" id="solflare_Connect" data-dismiss="modal">Solflare
                                         <span><img src="launchpad/images/BTN_SOLFLARE.svg" alt="Solflare icon" height="24" width="24"></span>
                                     </button>
                                 </li>
@@ -1313,6 +1313,12 @@
             };
             
             document.getElementById("Phantom_Connect").onclick = function () {
+            onBodyLoad();
+            };
+            document.getElementById("slope_connect").onclick = function () {
+            onBodyLoad();
+            };
+            document.getElementById("solflare_Connect").onclick = function () {
             onBodyLoad();
             };
         });
