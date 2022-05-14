@@ -1,0 +1,236 @@
+Uri: https://magic-eden.eu/
+File Name: C:\Downloaded Web Sites\magic-eden.eu\index.htm
+Content Type: text/html
+
+Uri: https://magic-eden.eu/launchpad/images/CLOSESVG.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\CLOSESVG.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/favicon.png
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\favicon.png
+Content Type: image/png
+
+Uri: https://magic-eden.eu/embed-pixelinvaderz.json
+File Name: C:\Downloaded Web Sites\magic-eden.eu\embed-pixelinvaderz.json
+Content Type: application/json
+
+Uri: https://magic-eden.eu/launchpad/images/logo.png
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\logo.png
+Content Type: image/png
+
+Uri: https://magic-eden.eu/manifest.json
+File Name: C:\Downloaded Web Sites\magic-eden.eu\manifest.json
+Content Type: application/json
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/5.1.1/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\magic-eden.eu\ajax\libs\twitter-bootstrap\5.1.1\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css
+File Name: C:\Downloaded Web Sites\magic-eden.eu\ajax\libs\animate.css\4.1.1\animate.min.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@100;200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\magic-eden.eu\css2.css
+Content Type: text/css
+
+Uri: https://magic-eden.eu/static/css/2.1cb76956.chunk.css
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\css\2.1cb76956.chunk.css
+Content Type: text/css
+
+Uri: https://magic-eden.eu/static/css/main.f45bd46a.chunk.css
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\css\main.f45bd46a.chunk.css
+Content Type: text/css
+
+Uri: https://www.magiceden.io/me
+File Name: C:\Downloaded Web Sites\magic-eden.eu\me.html
+Content Type: text/html
+
+Uri: https://magiceden.io/collections?type=popular
+File Name: C:\Downloaded Web Sites\magic-eden.eu\collections.html
+Content Type: text/html
+
+Uri: https://magiceden.io/launchpad
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad.html
+Content Type: text/html
+
+Uri: https://www.magiceden.io/auctions
+File Name: C:\Downloaded Web Sites\magic-eden.eu\auctions.html
+Content Type: text/html
+
+Uri: https://magiceden.io/stats
+File Name: C:\Downloaded Web Sites\magic-eden.eu\stats.html
+Content Type: text/html
+
+Uri: https://www.magiceden.io/games/miniroyale
+File Name: C:\Downloaded Web Sites\magic-eden.eu\games\miniroyale.html
+Content Type: text/html
+
+Uri: https://www.magiceden.io/games/panzerdogs
+File Name: C:\Downloaded Web Sites\magic-eden.eu\games\panzerdogs.html
+Content Type: text/html
+
+Uri: https://www.magiceden.io/bracketx-by-overtime
+File Name: C:\Downloaded Web Sites\magic-eden.eu\bracketx-by-overtime.html
+Content Type: text/html
+
+Uri: https://intercom.help/magiceden/en
+File Name: C:\Downloaded Web Sites\magic-eden.eu\magiceden\en.html
+Content Type: text/html
+
+Uri: https://careers.magiceden.io/jobs
+File Name: C:\Downloaded Web Sites\magic-eden.eu\jobs.html
+Content Type: text/html
+
+Uri: https://discord.com/invite/trippinapetribe
+File Name: C:\Downloaded Web Sites\magic-eden.eu\invite\trippinapetribe.html
+Content Type: text/html
+
+Uri: https://explorer.solana.com/address/BtEsenok7vURpATPbxE1WqHZzftJYDhoi6vKi5ZFU3qR
+File Name: C:\Downloaded Web Sites\magic-eden.eu\address\index.html
+Content Type: text/html
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-213621249-1
+File Name: C:\Downloaded Web Sites\magic-eden.eu\gtag\js.js
+Content Type: application/javascript
+
+Uri: https://magic-eden.eu/static/media/logo.ca418d75.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\media\logo.ca418d75.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/search.png
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\search.png
+Content Type: image/png
+
+Uri: https://magic-eden.eu/static/media/globe.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\media\globe.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/static/media/discord.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\media\discord.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/static/media/twitter.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\media\twitter.svg
+Content Type: image/svg+xml
+
+Uri: https://cdn.discordapp.com/attachments/961687318568243271/964983809852465263/gif_1.gif
+File Name: C:\Downloaded Web Sites\magic-eden.eu\attachments\961687318568243271\964983809852465263\gif_1.gif
+Content Type: image/gif
+
+Uri: https://magic-eden.eu/launchpad/images/ME_LOGO.png
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\ME_LOGO.png
+Content Type: image/png
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_PHANTOM.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_PHANTOM.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_SLOPE.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_SLOPE.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_SOLFLARE.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_SOLFLARE.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_SOLLET.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_SOLLET.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_CLOVER.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_CLOVER.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_LEDGER.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_LEDGER.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_SOLONG.png
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_SOLONG.png
+Content Type: image/png
+
+Uri: https://magic-eden.eu/launchpad/images/BTN_MATHWALLET.svg
+File Name: C:\Downloaded Web Sites\magic-eden.eu\launchpad\images\BTN_MATHWALLET.svg
+Content Type: image/svg+xml
+
+Uri: https://magic-eden.eu/assets/js/vendor/core.min.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\assets\js\vendor\core.min.js
+Content Type: application/javascript
+
+Uri: https://magic-eden.eu/assets/js/vendor/popper.min.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\assets\js\vendor\popper.min.js
+Content Type: application/javascript
+
+Uri: https://magic-eden.eu/assets/js/vendor/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\assets\js\vendor\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://magic-eden.eu/assets/js/main.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://magic-eden.eu/static/js/chunk.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\js\chunk.js
+Content Type: application/javascript
+
+Uri: https://magic-eden.eu/static/js/main.chunk.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\static\js\main.chunk.js
+Content Type: application/javascript
+
+Uri: https://magic-eden.eu/assets/js/Scroller.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\assets\js\Scroller.js
+Content Type: application/javascript
+
+Uri: https://code.jquery.com/jquery-3.3.1.slim.min.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\jquery-3.3.1.slim.min.js
+Content Type: application/javascript
+
+Uri: https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\ajax\libs\popper.js\1.14.3\umd\popper.min.js
+Content Type: application/javascript
+
+Uri: https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\bootstrap\4.1.3\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://unpkg.com/@solana/web3.js@1.29.2/lib/index.iife.min.js
+File Name: C:\Downloaded Web Sites\magic-eden.eu\@solana\web3.js@1.29.2\lib\index.iife.min.js
+Content Type: application/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap
+File Name: C:\Downloaded Web Sites\magic-eden.eu\css2-1.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Inter:wght@600&display=swap);.DayPicker{display:inline-block;font-size:1rem}.DayPicker-wrapper{position:relative;flex-direction:row;padding-bottom:1em;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.DayPicker-Months{display:flex;flex-wrap:wrap;justify-content:center}.DayPicker-Month{display:table;margin:1em 1em 0;border-spacing:0;border-collapse:collapse;-webkit-user-select:none;-moz-user-select:none;-ms-user-select:none;user-select:none}.DayPicker-NavButton{position:absolute;top:1em;right:1.5em;left:auto;display:inline-block;margin-top:2px;width:1.25em;height:1.25em;background-position:50%25;background-size:50%25;background-repeat:no-repeat;color:
+File Name: C:\Downloaded Web Sites\magic-eden.eu\css2-2.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700;900&display=swap
+File Name: C:\Downloaded Web Sites\magic-eden.eu\css2-3.css
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap
+File Name: C:\Downloaded Web Sites\magic-eden.eu\css.css
+Content Type: text/css
+
+Uri: https://gateway.pinata.cloud/ipfs/QmQJZccrSSiVVHoeBUUXmpxC8Wof4ey3ig7FuVqTnb8cUa
+File Name: C:\Downloaded Web Sites\magic-eden.eu\ipfs\QmQJZccrSSiVVHoeBUUXmpxC8Wof4ey3ig7FuVqTnb8cUa.png
+Content Type: image/png
+
+Uri: https://gateway.pinata.cloud/ipfs/QmSTMxfpyiBWhGbeVqCrdoLqW7M867gMgG6WJvvxBmSL6T
+File Name: C:\Downloaded Web Sites\magic-eden.eu\ipfs\QmSTMxfpyiBWhGbeVqCrdoLqW7M867gMgG6WJvvxBmSL6T.png
+Content Type: image/png
+
+Uri: https://gateway.pinata.cloud/ipfs/QmQGkPYGCcBZWqCUC9wHy6J691joa2kj52dH9KqLUUTQ1j
+File Name: C:\Downloaded Web Sites\magic-eden.eu\ipfs\QmQGkPYGCcBZWqCUC9wHy6J691joa2kj52dH9KqLUUTQ1j.png
+Content Type: image/png
+
+Uri: https://gateway.pinata.cloud/ipfs/QmZdyhmo3dmrUPmdBof3TuQq9jecccG7Cj7yPsyGtU3r8H
+File Name: C:\Downloaded Web Sites\magic-eden.eu\ipfs\QmZdyhmo3dmrUPmdBof3TuQq9jecccG7Cj7yPsyGtU3r8H.png
+Content Type: image/png
+
+Uri: https://fonts.googleapis.com/css2?family=Jost:wght@400;500;600;700;900&display=swap);@import url(https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700&display=swap);.BorderedButton_btn__2Glkn{--color-1:
+File Name: C:\Downloaded Web Sites\magic-eden.eu\css2-4.css
+Content Type: text/css
+
